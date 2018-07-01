@@ -566,7 +566,7 @@ public class FlipViewController extends AdapterView<Adapter> {
       handler.post(new Runnable() {
         @Override
         public void run() {
-          hideFlipAnimation();
+          //hideFlipAnimation();
         }
       });
     }
